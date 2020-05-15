@@ -1,0 +1,97 @@
+[[iODBC]]
+arch = "i686"
+git-tree-sha1 = "2e8a3a5a1e8f04411615c80eaa2bf15a9db4b018"
+libc = "musl"
+os = "linux"
+
+    [[iODBC.download]]
+    sha256 = "4181fd5de4b79ffa80e9e38e5d19013033abf06bdae16cd91f30aea7e8310e55"
+    url = "https://github.com/JuliaBinaryWrappers/iODBC_jll.jl/releases/download/iODBC-v3.52.13+0/iODBC.v3.52.13.i686-linux-musl.tar.gz"
+[[iODBC]]
+arch = "aarch64"
+git-tree-sha1 = "7b3b3d8c4c130fe3321e22c04afd8364a565cb1c"
+libc = "musl"
+os = "linux"
+
+    [[iODBC.download]]
+    sha256 = "8ab37f50ca26dc02ec73eed2f30227cefdcd36f04f1af15535695bcc1d33b467"
+    url = "https://github.com/JuliaBinaryWrappers/iODBC_jll.jl/releases/download/iODBC-v3.52.13+0/iODBC.v3.52.13.aarch64-linux-musl.tar.gz"
+[[iODBC]]
+arch = "armv7l"
+git-tree-sha1 = "178f5b3dbd756c48dff5eaa5ad6b8320396595ee"
+libc = "glibc"
+os = "linux"
+
+    [[iODBC.download]]
+    sha256 = "fcc7a35e9468fd04908449ac3070de8dcf45155c6b808eca4dbb9cb11e89c1ff"
+    url = "https://github.com/JuliaBinaryWrappers/iODBC_jll.jl/releases/download/iODBC-v3.52.13+0/iODBC.v3.52.13.armv7l-linux-gnueabihf.tar.gz"
+[[iODBC]]
+arch = "armv7l"
+git-tree-sha1 = "49edd64336f2fb3278da69dd7eade09438ac936c"
+libc = "musl"
+os = "linux"
+
+    [[iODBC.download]]
+    sha256 = "c41992f89ed13fd84d4b71afb04478d3175357435b6c011e847c0bd92548a06a"
+    url = "https://github.com/JuliaBinaryWrappers/iODBC_jll.jl/releases/download/iODBC-v3.52.13+0/iODBC.v3.52.13.armv7l-linux-musleabihf.tar.gz"
+[[iODBC]]
+arch = "i686"
+git-tree-sha1 = "1a5102d78221d096ecd4477edd0aa2298e2a6ce7"
+libc = "glibc"
+os = "linux"
+
+    [[iODBC.download]]
+    sha256 = "844ef27f48135fc468322b89b8416368487989a34c0d2e51577fdf1495db03c6"
+    url = "https://github.com/JuliaBinaryWrappers/iODBC_jll.jl/releases/download/iODBC-v3.52.13+0/iODBC.v3.52.13.i686-linux-gnu.tar.gz"
+[[iODBC]]
+arch = "x86_64"
+git-tree-sha1 = "f0f1249b4d997034b454bd563cbb795d23bff2bd"
+libc = "glibc"
+os = "linux"
+
+    [[iODBC.download]]
+    sha256 = "32e31cf6272ddf8467b4432753acb25dadd6b5a9229009eb6ff76c36b23f6707"
+    url = "https://github.com/JuliaBinaryWrappers/iODBC_jll.jl/releases/download/iODBC-v3.52.13+0/iODBC.v3.52.13.x86_64-linux-gnu.tar.gz"
+[[iODBC]]
+arch = "powerpc64le"
+git-tree-sha1 = "57014d5ecf44b4ee579b4703254f59ce608d551e"
+libc = "glibc"
+os = "linux"
+
+    [[iODBC.download]]
+    sha256 = "c28f0b61c3aeaeed1eaa296019a8af933b7182d92620dfb611effd69955c5cc4"
+    url = "https://github.com/JuliaBinaryWrappers/iODBC_jll.jl/releases/download/iODBC-v3.52.13+0/iODBC.v3.52.13.powerpc64le-linux-gnu.tar.gz"
+[[iODBC]]
+arch = "x86_64"
+git-tree-sha1 = "d6085e9d46d2581c4e55871b4660a4518ba1543d"
+os = "macos"
+
+    [[iODBC.download]]
+    sha256 = "7ecc51001f069d043e038f1051bf5a3e62b0a1a9179c8566934c5a982fa9bdd9"
+    url = "https://github.com/JuliaBinaryWrappers/iODBC_jll.jl/releases/download/iODBC-v3.52.13+0/iODBC.v3.52.13.x86_64-apple-darwin14.tar.gz"
+[[iODBC]]
+arch = "aarch64"
+git-tree-sha1 = "5d918678b9f976a131f523b34aa69b68c337075f"
+libc = "glibc"
+os = "linux"
+
+    [[iODBC.download]]
+    sha256 = "a4834eff72fc7eb9ca17e16ab335ec0d93e87bf572c10ea675d316c2b509f5bb"
+    url = "https://github.com/JuliaBinaryWrappers/iODBC_jll.jl/releases/download/iODBC-v3.52.13+0/iODBC.v3.52.13.aarch64-linux-gnu.tar.gz"
+[[iODBC]]
+arch = "x86_64"
+git-tree-sha1 = "35e43b7a480b16d638170426b0f5a68f45202c15"
+os = "freebsd"
+
+    [[iODBC.download]]
+    sha256 = "58b5bf097788aebe1509ef5d633a237f63f18fd929d4f4418a5c0037447e83e0"
+    url = "https://github.com/JuliaBinaryWrappers/iODBC_jll.jl/releases/download/iODBC-v3.52.13+0/iODBC.v3.52.13.x86_64-unknown-freebsd11.1.tar.gz"
+[[iODBC]]
+arch = "x86_64"
+git-tree-sha1 = "831054d627e7e43079a8377caa7fcddb5ae2b790"
+libc = "musl"
+os = "linux"
+
+    [[iODBC.download]]
+    sha256 = "0eee99cd573f65f38d43c8f430674a22c899f82ecb19627e3a137d9ee2a6b442"
+    url = "https://github.com/JuliaBinaryWrappers/iODBC_jll.jl/releases/download/iODBC-v3.52.13+0/iODBC.v3.52.13.x86_64-linux-musl.tar.gz"
